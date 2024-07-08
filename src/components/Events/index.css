@@ -1,0 +1,33 @@
+/* Write your CSS here */
+
+.main-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.events-cont {
+  width: 70%;
+  background-color: #64748b;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-heading {
+  color: #fff;
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.list-cont {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+
+.para {
+  color: aquamarine;
+}

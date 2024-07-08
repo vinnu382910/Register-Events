@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.details-cont {
+  width: 300px;
+  margin-left: 20px;
+  margin-bottom: 24px;
+}
+
+.image {
+  width: 100%;
+}
+
+p {
+  color: #fff;
+  font-family: roboto;
+  font-weight: bold;
+}
+
+.name {
+  font-size: 24px;
+}
+
+.btn-image {
+  background: transparent;
+  border: none;
+  padding: 0px;
+  outline: none;
+  cursor: pointer;
+}
